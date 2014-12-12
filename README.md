@@ -1,0 +1,4 @@
+myFortune
+=========
+
+My first repository
